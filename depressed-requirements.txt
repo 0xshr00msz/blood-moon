@@ -1,0 +1,14 @@
+# depressed-requirements.txt
+# Use sudo apt command
+
+file
+lz4
+xz-utils
+unzip
+p7zip-full
+gzip
+bzip2
+zstd
+unrar
+tar
+python3
